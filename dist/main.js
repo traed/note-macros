@@ -1,0 +1,1 @@
+CONFIG.debug.hooks=!1,Hooks.on("ready",(function(){console.log("Hej")}));

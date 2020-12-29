@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "watch": "npx webpack --env dev",
-    "build": "npx webpack --env prod"
+    "build": "npx webpack --env prod",
+    "push": "git checkout main && git merge dev && npm run build && git push && git checkout dev"
   },
   "author": "Mattias Forsman",
   "license": "MIT",
