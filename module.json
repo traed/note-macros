@@ -5,7 +5,6 @@
 	"description": "Run a macro when clicking on a map note.",
 	"version": "0.1.0",
 	"download": "https://github.com/traed/note-macros/archive/v0.1.0.zip",
-	"manifest": "https://github.com/traed/note-macros/module.json",
 	"url": "https://github.com/traed/note-macros",
 	"minimumCoreVersion": "0.7.6",
 	"compatibleCoreVersion": "0.7.9",
